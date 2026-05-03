@@ -24,6 +24,13 @@ media session when the timer ends.
 - [Implementation plan](docs/implementation-plan.md)
 - [Third-party service boundaries](docs/third-party-service-boundaries.md)
 - [Development setup](docs/development-setup.md)
+- [License policy](docs/license-policy.md)
+
+## License
+
+FadeOut is proprietary software owned by HelaGen. All rights are reserved.
+
+See [LICENSE](LICENSE) for the full license terms.
 
 ## Development
 
